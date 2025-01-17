@@ -32,4 +32,6 @@ Step 5: Set up the training model type and number of workers.
 
 Step 7: Complete tasks to earn more points: https://voltix.ai/dashboard/airdrops?tab=tasks
 
+``Note: You can use multiple devices/wallet``
+
 ## Don't forget to like and follow me: https://x.com/nodesync_top
