@@ -1,4 +1,5 @@
 # Voltix
+![1500x500](https://github.com/user-attachments/assets/b729b66f-5f85-4278-bf45-06fa642fac55)
 
 Voltix transforms unused CPU power into a valuable resource, allowing individuals and organizations to contribute to global AI advancements while earning rewards. By utilizing idle computational resources, Voltix helps close the gap in computational demand.
 
