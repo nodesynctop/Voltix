@@ -17,9 +17,7 @@ Step 3: Add to chrome: https://chromewebstore.google.com/detail/voltix-built-for
 Step 4: Open Extension and Connect Wallet
 
 Step 5: Set up the training model type and number of workers.
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a227f5e6-7ce2-4084-b14b-3f916b32dc9e">
-</p>
+
 <p align="center">
   
 **Customize to suit model and CPU configuration, Keep uptime**
@@ -27,6 +25,9 @@ Step 5: Set up the training model type and number of workers.
 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5dd7c5e3-3bfb-45e3-87a1-4d303a263df4">
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a227f5e6-7ce2-4084-b14b-3f916b32dc9e">
 </p>
 
 Step 7: Complete tasks to earn more points: https://voltix.ai/dashboard/airdrops?tab=tasks
