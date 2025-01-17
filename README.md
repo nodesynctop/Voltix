@@ -31,3 +31,5 @@ Step 5: Set up the training model type and number of workers.
 </p>
 
 Step 7: Complete tasks to earn more points: https://voltix.ai/dashboard/airdrops?tab=tasks
+
+## Don't forget to like and follow me: https://x.com/nodesync_top
