@@ -22,8 +22,10 @@ Step 5: Set up the training model type and number of workers.
 </p>
 
 <p align="center">
- Customize to suit model and CPU configuration, Keep uptime
+Customize to suit model and CPU configuration, Keep uptime
+ 
 <img src="https://github.com/user-attachments/assets/5dd7c5e3-3bfb-45e3-87a1-4d303a263df4">
+
 </p>
 
 Step 7: Complete tasks to earn more points: https://voltix.ai/dashboard/airdrops?tab=tasks
