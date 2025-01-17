@@ -8,7 +8,7 @@ Discord: https://discord.gg/5AhcERZh
 
 # How to Run Voltix Worker Nodes
 
-Step 1: Go to https://voltix.ai/login?ref=RCCST
+Step 1: Go to https://voltix.ai/login?ref=RCCST  or code `**RCCST**`
 
 Step 2: Login your Solana wallet (Phantom)
 
